@@ -22,4 +22,4 @@ Cycling through images can be tricky.
 ## Examples:
 Take a look at this example that I have in my own portfolio:
 
-**Digital Canvas:** https://github.com/alecortega/palettable
+**Digital Canvas:** https://acopperlily.github.io/digital-canvas/
