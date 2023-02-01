@@ -1,7 +1,7 @@
 # Happy Hour Cocktails
 Thirsty for something different? Users can search for drinks freshly served up by TheCocktailDB API. Tiny umbrellas not included.
 
-**Link to project:** https://acopperlily.github.io/happy-hour-cocktails/
+**Link to project:** https://acopperlily.github.io/cocktails-demo/
 
 ![alt tag](https://github.com/acopperlily/cocktails-demo/blob/main/preview.png)
 
