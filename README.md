@@ -3,7 +3,7 @@ Thirsty for something different? Users can search for drinks freshly served up b
 
 **Link to project:** https://acopperlily.github.io/happy-hour-cocktails/
 
-![alt tag](https://github.com/acopperlily/happy-hour-cocktails/blob/main/preview.png)
+![alt tag](https://github.com/acopperlily/cocktails-demo/blob/main/preview.png)
 
 ## How It's Made:
 
